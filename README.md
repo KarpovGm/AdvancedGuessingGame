@@ -1,2 +1,0 @@
-# AdvancedGuessingGame
-SF Task

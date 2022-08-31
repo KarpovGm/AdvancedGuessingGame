@@ -1,12 +1,12 @@
 # Skillfactory Task: Guess the number
 
 ## Оглавление  
-[1. Описание проекта](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы) 
+[1. Описание проекта](https://github.com/KarpovGm/AdvancedGuessingGame/blob/main/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/KarpovGm/AdvancedGuessingGame/blob/main/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/KarpovGm/AdvancedGuessingGame/blob/main/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/KarpovGm/AdvancedGuessingGame/blob/main/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/KarpovGm/AdvancedGuessingGame/blob/main/README.md#Результат)    
+[6. Выводы](https://github.com/KarpovGm/AdvancedGuessingGame/blob/main/README.md#Выводы) 
 
 ### Описание проекта    
 Компьютер загадывает случайное число и с помощью программы угадывает его за минимальное количество попыток.
@@ -33,7 +33,7 @@
 ### Краткая информация о данных
 Единственные использованные данные - это список из случайно загаданных компьютером чисел.
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/KarpovGm/AdvancedGuessingGame/blob/main/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -41,19 +41,19 @@
 Второй - написание кода непосредственно самой программы.
 Третий - выкладывание готового задания на GitHub и на сайте Skillfactory для проверки
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/KarpovGm/AdvancedGuessingGame/blob/main/README.md#Оглавление)
 
 
 ### Результаты:  
 Программа как и палагается, угадывает число благодаря алгоритму за в среднем 5 попыток. 
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/KarpovGm/AdvancedGuessingGame/blob/main/README.md#Оглавление)
 
 
 ### Выводы:  
 Задача не сложная, однако над реализацией надо было немного подумать.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/KarpovGm/AdvancedGuessingGame/blob/main/README.md#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
